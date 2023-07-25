@@ -9,3 +9,4 @@ function Vote({vote}) {
 }
 
 export default Vote;
+
